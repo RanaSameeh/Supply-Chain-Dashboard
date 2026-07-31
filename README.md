@@ -2,8 +2,8 @@
 
 Interactive Customer Churn Dashboard 📊 | Power BI
 
-![Dashboard](Dashboard.png)
-
+![Dashboard](Dashboard.png(2))
+![Dashboard](Dashboard.png(3))
 ## 📌 Project Overview
 
 This dashboard analyzes customer churn behavior to identify the factors that influence customer retention. It provides business insights through interactive visualizations and KPIs.
