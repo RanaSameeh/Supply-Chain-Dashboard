@@ -1,32 +1,34 @@
-# Customer Churn Dashboard
+# Supply Chain Dashboard
 
-Interactive Customer Churn Dashboard 📊 | Power BI
+Interactive Supply Chain Dashboard 🚚 | Power BI
 
-![Dashboard](Dashboard.png(2))
-![Dashboard](Dashboard.png(3))
+![KPIs](KPIs.png)
+![KPIs](KPIs.png(1))
 ## 📌 Project Overview
 
-This dashboard analyzes customer churn behavior to identify the factors that influence customer retention. It provides business insights through interactive visualizations and KPIs.
+This project analyzes supply chain performance using Power BI. It provides insights into revenue, inventory, transportation, production, and product performance.
 
 ## 🎯 Objectives
 
-- Analyze customer churn.
-- Identify high-risk customer segments.
-- Explore customer demographics.
-- Analyze subscribed services and contracts.
-- Build an interactive Power BI dashboard.
+- Monitor supply chain KPIs.
+- Analyze inventory and stock.
+- Evaluate transportation performance.
+- Analyze product performance.
+- Support business decision-making.
 
-## 📊 Dashboard Features
+## 📊 Dashboard Pages
 
-- Customers at Risk
-- Total Charges
-- Monthly Charges
-- Customer Demographics
-- Contract Analysis
-- Payment Methods
-- Internet Services
-- Subscribed Services
-- Interactive Filters
+### 📊 KPIs
+
+![KPIs](KPIs.png)
+
+### 📈 Performance
+
+![Performance](Performance.png)
+
+### 📋 Report
+
+![Report](Report.png)
 
 ## 🛠 Tools Used
 
