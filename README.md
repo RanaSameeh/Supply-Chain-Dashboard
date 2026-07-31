@@ -3,8 +3,10 @@
 Interactive Supply Chain Dashboard 🚚 | Power BI
 
 ![KPIs](KPIs.png)
-![KPIs](Performance.png)
-![KPIs](Performance.png)
+
+![Performance](Performance.png)
+
+![Report](Report.png)
 ## 📌 Project Overview
 
 This project analyzes supply chain performance using Power BI. It provides insights into revenue, inventory, transportation, production, and product performance.
