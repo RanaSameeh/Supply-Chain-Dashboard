@@ -42,4 +42,4 @@ This project analyzes supply chain performance using Power BI. It provides insig
 
 ## 📷 Data Model
 
-![Data Model](Data_model.png)
+![Data Model](Data_model.png.png)
